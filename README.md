@@ -1,5 +1,5 @@
 # BokehramaEmulator
-Jeff Manderscheid, Matriculation Number: 60037
+Jeff Manderscheid
 Faculty of Electrical Engineering and Information Technology, Hochschule Karlsruhe
 Bokehrama Emulation V1.0, 22.09.2020
 
