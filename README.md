@@ -3,7 +3,7 @@ Jeff Manderscheid
 Faculty of Electrical Engineering and Information Technology, Hochschule Karlsruhe
 Bokehrama Emulation V1.0, 22.09.2020
 
-The Bokehrama Emulation can create out of simple smartphone pictures with different sizes the associated Bokehramas. The directory to a folder containing images of the type JPG is the input.The standard input folder is the "images" folder already included. It contains several example pictures.
+The Bokehrama Emulation can create Bokehramas out of smartphone pictures of variable sizes. The directory to a folder containing the images of the type JPG is the input.The standard input folder is the "images" folder. The output folder is the "bokehramas" folder. The masks and depth maps are saved in the folder "masks&maps".
 
 How to install:
 Create a Conda environment with Python 3.7 with the command:
@@ -11,7 +11,7 @@ conda create -n bokehrama python=3.7
 
 The requirements necessary to run can be found in the "requirements.txt".
 I recommend to install them manually in the enviroment.
-OpenCV is in conda-forge, another command is needed
+OpenCV is available in conda-forge.
 When pip install or conda install does not work use:
 conda install -c conda-forge PACKAGENAME
 
